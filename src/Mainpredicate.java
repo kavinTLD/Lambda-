@@ -8,6 +8,6 @@ class Mainpredicate {
     }
     public static void main(String[] args)
     {
-        pred((i) -> i > 9);
+        pred((i) -> i > 1);
     }
 }
